@@ -76,3 +76,8 @@ Every Withdrawal belongs to one User.
 Every Payout belongs to one User.
 
 A Payout may reference a Sale or Withdrawal.
+
+
+
+
+
